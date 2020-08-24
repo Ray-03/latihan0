@@ -74,3 +74,14 @@ flutter:
   #
   # For details regarding fonts from package dependencies,
   # see https://flutter.dev/custom-fonts/#from-packages
+  assets:
+    - images/
+  fonts:
+    - family: Caveat
+      fonts:
+        - asset: fonts/Caveat-Bold.ttf
+    #       - asset: fonts/Schyler-Italic.ttf
+    #         style: italic
+    - family: Sen
+      fonts:
+        - asset: fonts/Sen-Regular.ttf
