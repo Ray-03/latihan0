@@ -1,6 +1,6 @@
 # my_mi_card
 
-A new Flutter application.
+Static page for personal business card
 
 ## Getting Started
 
@@ -14,3 +14,5 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+<a href="https://drive.google.com/uc?export=view&id=10KmLOQDYwCV8IeuUZJqcxdBtc1m9NpgD"><img src="https://drive.google.com/uc?export=view&id=10KmLOQDYwCV8IeuUZJqcxdBtc1m9NpgD" width="300" title="Click for the larger version." /></a>
